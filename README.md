@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **various Projects that you can find in my **Repository****
 - 🌱 I’m currently learning **Javascript, Typescript, React.js, Redux, CSS**	 
 
-- 📄 To learn more about me, please go to the link --> <a target="_blank">  [https://www.meruyert-karim.com/](https://www.meruyert-karim.com/)</a>
+- 📄 To learn more about me, please go to the link --> <a href="https://www.meruyert-karim.com/" target="_blank"> https://www.meruyert-karim.com/ </a>
 
 - ⚡ Fun fact **I like doing Fun 😅**	
 
