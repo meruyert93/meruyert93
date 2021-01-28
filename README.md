@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mj835&label=Profile%20views&color=0e75b6&style=flat" alt="mj835" /> </p>
 
 - 🔭 I’m currently working on **various projects which you can find in my **Repository**** 
--    I’m doing internship as **Software Engineer at [https://digitalproductschool.io/](Digital Product School) by https://www.unternehmertum.de/en](Unternehmer TUM).**
+-    I’m doing internship as **Software Engineer** at [https://digitalproductschool.io/](Digital Product School) by https://www.unternehmertum.de/en](Unternehmer TUM).
 - 🌱 I’m currently learning **Javascript, Typescript, React.js, Redux, CSS, HTML**	 
 
 - 📄 To learn more about me, please go to the link --> <a href="https://www.meruyert-karim.com/" target="_blank"> https://www.meruyert-karim.com/ </a>
