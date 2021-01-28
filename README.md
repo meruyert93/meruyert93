@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -    I’m doing internship as **Software Engineer** at [Digital Product School](https://digitalproductschool.io/) by [Unternehmer TUM](https://www.unternehmertum.de/en).
 - 🌱 I’m currently learning **Javascript, Typescript, React.js, Redux, CSS, HTML**	 
 
-- 📄 To learn more about me, please go to the link --> <a href="https://www.meruyert-karim.com/" target="_blank"> https://www.meruyert-karim.com/ </a>
+- 📄 To learn more about me, please go to the link --> <a href="https://www.meruyert-karim.com/" target="_blank"> www.meruyert-karim.com </a>
 
 - ⚡ Fun fact **I like doing Fun 😅**	
 
