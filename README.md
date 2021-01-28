@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mj835&label=Profile%20views&color=0e75b6&style=flat" alt="mj835" /> </p>
 
--
 -🔭 I’m currently working on **various Projects that you can find in my **Repository****
 - 🌱 I’m currently learning **Javascript, Typescript, React.js, Redux, CSS**	 
 
