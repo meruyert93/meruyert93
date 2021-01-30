@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">Self-taught & Passionate Munich-based Front-End Developer 👩‍💻 :de:</h3>
 <h4 align="center">Soon Full Stack Developer</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mj835&label=Profile%20views&color=0e75b6&style=flat" alt="mj835" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meruyert93&label=Profile%20views&color=0e75b6&style=flat" alt="meruyert93" /> </p>
 
 - 🔭 I’m currently working on **various projects which you can find in my **Repository**** 
 - 👩‍💻  I’m doing internship as **Software Engineer** at [Digital Product School](https://digitalproductschool.io/) by [Unternehmer TUM](https://www.unternehmertum.de/en).
