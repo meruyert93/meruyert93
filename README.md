@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Javascript, Typescript, React.js, Redux, CSS, HTML**	 
 
 - 📄 To learn more about me, please go to the link --> <a href="https://www.meruyert-karim.com/" target="_blank"> www.meruyert-karim.com </a>
-
-- ⚡ Fun fact **I like doing Fun😅**	
-
+<!--
+- ⚡ Fun fact **I like doing Fun 😅**	
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/meruyert-karim/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smjdeveloper" height="30" width="40" /></a>
