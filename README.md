@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📄 To learn more about me, please go to the link --> <a href="https://www.meruyert-karim.com/" target="_blank"> www.meruyert-karim.com </a>
 
-- ⚡ Fun fact **I like doing Fun 😅**	
+- ⚡ Fun fact **I like doing Fun😅**	
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
