@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **various projects which you can find in my **Repository**** 
 - 👩‍💻  I’m doing internship as **Software Engineer** at [Digital Product School](https://digitalproductschool.io/) by [Unternehmer TUM](https://www.unternehmertum.de/en).
-- 🌱 I’m currently learning **Javascript, Typescript, React.js, Redux, CSS, HTML**	 
+- 🌱 I’m currently learning **Javascript, Typescript, React.js, Redux, CSS3, HTML5**	 
 
 - 📄 To learn more about me, please go to the link --> <a href="https://www.meruyert-karim.com/" target="_blank"> www.meruyert-karim.com </a>
 <!--
