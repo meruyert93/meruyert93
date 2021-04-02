@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meruyert93&label=Profile%20views&color=0e75b6&style=flat" alt="meruyert93" /> </p>
 
 - 🔭 I’m currently working on **various projects which you can find in my **Repository**** 
-- 👩‍💻  I did my internship as **Software Engineer** at [Digital Product School](https://digitalproductschool.io/) by [Unternehmer TUM]    (https://www.unternehmertum.de/en). 
-        To know more about our project, please go to [this link](https://www.linkedin.com/posts/digital-product-school_dps-batch12-team-drunken-sailors-their-activity-6782231180344352768-jtjQ) and you can also visit [our website](https://volungo.netlify.app/)
+- 👩‍💻 I did my internship as **Software Engineer** at [Digital Product School](https://digitalproductschool.io/) by [Unternehmer TUM]    (https://www.unternehmertum.de/en). To know more about our project, please go to [this link](https://www.linkedin.com/posts/digital-product-school_dps-batch12-team-drunken-sailors-their-activity-6782231180344352768-jtjQ) and you can also visit [our website](https://volungo.netlify.app/)
 - 👩‍💻 Right now I am **Junior Software Engineer** at [Ciara](https://www.getciara.com/)
 - 🌱 I’m currently learning **Javascript, Typescript, React.js, Redux, Vue.js CSS3, HTML5**	 
 
