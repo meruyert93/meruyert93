@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meruyert93&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00DD8D&fire=DD2727&stroke=DDDDDD&sideNums=DDDDDD)](https://github.com/meruyert93?tab=repositories)<br/>
 
+-----------------------------------------
+
 ![GitHub Snake Light](https://github.com/meruyert93/meruyert93/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/meruyert93/meruyert93/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
