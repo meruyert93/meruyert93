@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **various projects which you can find in my **Repository**** 
 - 👩‍💻 I also did my internship as **Software Engineer** at [Digital Product School](https://digitalproductschool.io/) by 
 [Unternehmer TUM](https://www.unternehmertum.de/en). To learn more about our project, please go to [this link](https://www.linkedin.com/posts/digital-product-school_dps-batch12-team-drunken-sailors-their-activity-6782231180344352768-jtjQ) and you can also visit [our website](https://volungo.netlify.app/)
-- 👩‍💻 My first job I launched at [Ciara](https://www.getciara.com/) as **Junior Software Engineer**
+- 👩‍💻 My first job I launched at compyna called Ciara as **Junior Software Engineer**
 - 👩‍💻 Right now, I am a **Software Engineer** at [RelationalAI](https://relationalai.com/)
 - 🌱 I’m experienced with **Javascript, Typescript, React.js, Redux, Vue.js CSS3, HTML5**	 
 
