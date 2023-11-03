@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Meruyert</h1>
-<h3 align="center">Self-taught & Passionate Munich-based Front-End Developer 👩‍💻 :de:</h3>
-<h4 align="center">Soon Full Stack Developer</h4>
+<h3 align="center">Self-taught & Passionate Munich-based Software Engineer 👩‍💻 :de:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meruyert93&label=Profile%20views&color=0e75b6&style=flat" alt="meruyert93" /> </p>
 
